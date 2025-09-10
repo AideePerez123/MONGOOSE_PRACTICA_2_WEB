@@ -1,0 +1,13 @@
+{
+    "success": {
+        "login": "login con exito",
+        "clientesObtenidos": "clientes obtenidos exitosamente",
+        "clienteGuardado": "cliente guardado"
+    },
+    "error": {
+        "internal": "error interno del servidor",
+        "notFound": "datos no encontrados",
+        "exists": "datos ya existen",
+        "authError": "error de autenticación"
+    }
+    }
