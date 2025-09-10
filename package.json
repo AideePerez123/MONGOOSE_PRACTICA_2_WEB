@@ -1,0 +1,29 @@
+{
+  "name": "mongoose_practica_2_web",
+  "version": "1.0.0",
+  "type":"module",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AideePerez123/MONGOOSE_PRACTICA_2_WEB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AideePerez123/MONGOOSE_PRACTICA_2_WEB/issues"
+  },
+  "homepage": "https://github.com/AideePerez123/MONGOOSE_PRACTICA_2_WEB#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "i18n": "^0.15.1",
+    "joi": "^18.0.1",
+    "mongoose": "^8.18.1"
+  }
+}
