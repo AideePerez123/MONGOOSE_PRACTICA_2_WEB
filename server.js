@@ -11,7 +11,7 @@ dotenv.config();
 const app = express();
 const port = process.env.PORT;
 
-// Obtener la ruta del directorio actual
+
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
@@ -35,5 +35,6 @@ const startServer = async () => {
     console.error('Error al iniciar el servidor:', error);
   }
 };
+
 
 startServer();
